@@ -16,7 +16,12 @@
     "operatorsAliases": false
   },
   "production": {
-    "url": "postgres://hhydahlekodxww:f90f64928a41fe75782cb23a1f7907db82bb84d4f878c37d34fa447380231126@ec2-34-202-7-83.compute-1.amazonaws.com:5432/dgjtoj9v25i07",
+    "username": "hhydahlekodxww",
+    "password": "f90f64928a41fe75782cb23a1f7907db82bb84d4f878c37d34fa447380231126",
+    "database": "dgjtoj9v25i07",
+    "host": "ec2-34-202-7-83.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "port": 5432,
     "operatorsAliases": false
   }
 }
